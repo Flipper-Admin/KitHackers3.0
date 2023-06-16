@@ -1,7 +1,8 @@
 # KitHackers3.0
 
 Run Command:
-apt-get install python3
+
+apt-get install python
 
 apt-get install git
 
